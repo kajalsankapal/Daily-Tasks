@@ -1,0 +1,10 @@
+{
+  "CATEGORY_KEYWORDS": {
+    "FINANCE": ["stock", "market", "investment", "bank", "economy", "finance"],
+    "TECH": ["technology", "AI", "software", "hardware", "startup", "app"],
+    "POLITICS": ["government", "election", "minister", "policy", "parliament"],
+    "GENERAL": []
+  },
+  "TECH_COMPANIES": ["Apple", "Google", "Microsoft", "Amazon", "Meta", "Nvidia", "Tesla", "Palantir", "Stripe", "Crypto.com", "OpenAI", "Intel", "Oracle", "IBM", "Adobe", "Salesforce"],
+  "FINANCE_COMPANIES": ["Bank of America", "Berkshire Hathaway", "JPMorgan Chase", "Goldman Sachs", "Morgan Stanley", "Citigroup", "Wells Fargo", "Visa", "Mastercard", "PayPal"]
+}
