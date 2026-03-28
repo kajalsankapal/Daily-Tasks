@@ -60,8 +60,7 @@ def extract_entities(text, category):
     elif category == "FINANCE":
         companies_list = FINANCE_COMPANIES
     else:
-        companies_list = []  # For GENERAL or POLITICS, no specific companies
-
+        companies_list = [] 
     companies_found = []
     lowered = text.lower()
     for company in companies_list:
