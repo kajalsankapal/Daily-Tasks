@@ -19,7 +19,7 @@ while True:
     similarities = cosine_similarity(query_embedding, doc_embeddings)[0]
     top_indices = similarities.argsort()[-3:][::-1]
 
-    print("\n🔍 Top 3 Results:\n")
+    print("\nTop 3 Results:\n")
 
     for i in top_indices:
         print(f"Sentence: {documents[i]}")
