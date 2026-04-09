@@ -6,7 +6,7 @@ from google import genai
 import PyPDF2
 
 load_dotenv()
-api_key = os.getenv("GOOGLE_API_KEY")
+api_key = os.getenv("gemini_api_key")
 
 if not api_key:
     raise ValueError("API key not found. Check your .env file.")
