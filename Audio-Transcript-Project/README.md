@@ -1,4 +1,4 @@
-# 🎧 Audio Transcription AI Agent (with UI)
+# 🎧 Audio Transcription AI Agent
 
 ## 📌 Overview
 
@@ -252,7 +252,7 @@ This project demonstrates a **complete AI pipeline**, including:
 ---
 
 ## 👩‍💻 Author
-
+Kajal Sankapal
 Developed as part of AI/ML project tasks.
 
 ---
