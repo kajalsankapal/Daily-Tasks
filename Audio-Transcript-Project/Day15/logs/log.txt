@@ -1,0 +1,55 @@
+
+Time: 2026-04-13 10:29:08.672771
+File: marathi-audio.mp3
+Task: Full Transcript
+Translation: No
+Tokens: 25
+Transcription Time: 9.16
+Gemini Time: 0.00
+Output: Mumbai hi Bharata chi Arthik wa Manoranjana chi Rajadhani ahi. Rizar wa Bank, Mumbai share bazar, Ra...
+----------------------------------------
+
+
+Time: 2026-04-13 10:32:27.608249
+File: community-group-talking.mp3
+Task: Summary
+Translation: Yes
+Tokens: 36
+Transcription Time: 20.41
+Gemini Time: 8.46
+Output: The speaker's dad's family is gathering for Thanksgiving, an event the speaker played a significant ...
+----------------------------------------
+
+
+Time: 2026-04-13 10:33:23.669132
+File: community-group-talking.mp3
+Task: Full Transcript
+Translation: Yes
+Tokens: 49
+Transcription Time: 20.18
+Gemini Time: 0.00
+Output: My dad's family really likes to be. He likes to be, and I'm gonna put the day after. I'm gonna put t...
+----------------------------------------
+
+
+Time: 2026-04-13 10:45:28.093834
+File: hindi-audio.mp3
+Task: Summary
+Translation: Yes
+Tokens: 72
+Transcription Time: 45.87
+Gemini Time: 9.69
+Output: Artificial intelligence (AI) is described as a form of education aimed at teaching machines to learn...
+----------------------------------------
+
+
+Time: 2026-04-13 11:06:21.713015
+File: hindi-audio.mp3
+Task: Summary
+Translation: No
+Tokens: 92
+Transcription Time: 22.85
+Gemini Time: 6.96
+Output: This text explains that Artificial Intelligence (AI), known as "Kritrim Buddhimatta" in Hindi, is an...
+----------------------------------------
+

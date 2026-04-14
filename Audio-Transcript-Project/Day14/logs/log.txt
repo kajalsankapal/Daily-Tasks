@@ -1,0 +1,33 @@
+
+Time: 2026-04-12 20:35:44.114463
+File: community-group-talking.mp3
+Translation: yes
+Intent: transcript
+Tokens: 35
+Transcription Time: 7.25
+Gemini Time: 0.00
+Output: My dad's family precincts to me. I'm just an excuse, and I'm going to fix the roof the day after. I'...
+----------------------------------------
+
+
+Time: 2026-04-12 20:46:19.770322
+File: hindi-audio.mp3
+Translation: no
+Intent: summary
+Tokens: 92
+Transcription Time: 9.43
+Gemini Time: 7.65
+Output: Artificial Intelligence (AI), known as "Kritrim Buddhimatta" in Hindi, is an advanced branch of comp...
+----------------------------------------
+
+
+Time: 2026-04-12 22:34:27.108974
+File: marathi-audio.mp3
+Translation: no
+Intent: summary
+Tokens: 25
+Transcription Time: 4.02
+Gemini Time: 5.77
+Output: Mumbai is India's Economic and Entertainment Capital. It is home to important financial institutions...
+----------------------------------------
+
