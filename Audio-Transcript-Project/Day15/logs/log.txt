@@ -53,3 +53,161 @@ Gemini Time: 6.96
 Output: This text explains that Artificial Intelligence (AI), known as "Kritrim Buddhimatta" in Hindi, is an...
 ----------------------------------------
 
+
+Time: 2026-04-14 10:37:59.540287
+File: marathi-audio.mp3
+Task: Keywords
+Translation: No
+Tokens: 25
+Transcription Time: 8.56
+Gemini Time: 9.02
+Output: Here's the breakdown:
+
+**Keywords:**
+
+*   Mumbai
+*   India
+*   Economic Capital
+*   Entertainment Ca...
+----------------------------------------
+
+
+Time: 2026-04-16 11:23:16.710157
+File: noise-audio.wav
+Task: Full Transcript
+Tokens: 39
+Transcription Time: 3.35sec
+Gemini Time: 0.00sec
+Output: or brain problems, if you will. And it's critical, and the M in bright minds, mental health stuff. S...
+----------------------------------------
+
+
+Time: 2026-04-16 11:24:09.997833
+File: noise-audio.wav
+Task: Summary
+Tokens: 39
+Transcription Time: 2.80sec
+Gemini Time: 4.07sec
+Output: The speaker emphasizes the critical importance of mental health, referring to it as "brain problems"...
+----------------------------------------
+
+
+Time: 2026-04-16 12:54:00.403658
+File: Catching Up With Friends Audio 3.mp3
+Task: Full Transcript
+Tokens: 76
+Transcription Time: 12.01sec
+Gemini Time: 0.00sec
+Output: Phew, what a day! Busy? Well, yeah. This new project is taking up all my time. I don't have time for...
+----------------------------------------
+
+
+Time: 2026-04-16 17:06:56.008631
+File: recorded.wav
+Task: Full Transcript
+Tokens: 22
+Transcription Time: 5.65sec
+Gemini Time: 0.00sec
+Output: So, this is called the Chidipanshu. This is the Chidipanshu. This is an simple review, but your tran...
+----------------------------------------
+
+
+Time: 2026-04-16 17:09:02.730939
+File: recorded.wav
+Task: Full Transcript
+Tokens: 26
+Transcription Time: 28.73sec
+Gemini Time: 0.00sec
+Output: O N I N G Kil K I N K M T I N. The full moon outside the full moon... Full moon will be fall!...
+----------------------------------------
+
+
+Time: 2026-04-16 17:09:52.212794
+File: community-group-talking.mp3
+Task: Full Transcript
+Tokens: 36
+Transcription Time: 3.88sec
+Gemini Time: 0.00sec
+Output: My dad's family for Thanksgiving. Thanks to me and I'm gonna put the day after. I'm gonna put it bac...
+----------------------------------------
+
+
+Time: 2026-04-17 13:34:18.839160
+File: recorded.wav
+Task: Full Transcript
+Tokens: 19
+Transcription Time: 6.58sec
+Gemini Time: 0.00sec
+Output: My name is Spasjan and I'm making this all due just for sample audio transcription AI agent that's i...
+----------------------------------------
+
+
+Time: 2026-04-17 13:49:04.006896
+File: recorded.wav
+Task: Full Transcript
+Tokens: 25
+Transcription Time: 20.59sec
+Gemini Time: 0.00sec
+Output: This is the birthday and this is the schedule and we are recording this audio for sample of orchestr...
+----------------------------------------
+
+
+Time: 2026-04-17 14:07:49.443366
+File: recorded.wav
+Task: Full Transcript
+Tokens: 14
+Transcription Time: 16.12sec
+Gemini Time: 0.00sec
+Output: This is Karzul and we are recording sample audio for audio transcription, AOLGEN project....
+----------------------------------------
+
+
+Time: 2026-04-17 18:37:02.996911
+File: Catching Up With Friends Audio 3.mp3
+Task: Full Transcript
+Tokens: 76
+Transcription Time: 29.56sec
+Gemini Time: 0.00sec
+Output: Phew, what a day! Busy? Well yeah, this new project is taking up all my time. I don't have time for ...
+----------------------------------------
+
+
+Time: 2026-04-18 06:03:38.886192
+File: Catching Up With Friends Audio 3.mp3
+Task: Full Transcript
+Tokens: 76
+Transcription Time: 30.02sec
+Gemini Time: 0.00sec
+Output: Phew, what a day! Busy? Well yeah, this new project is taking up all my time. I don't have time for ...
+----------------------------------------
+
+
+Time: 2026-04-18 06:12:58.667236
+File: recorded.wav
+Task: Full Transcript
+Tokens: 14
+Transcription Time: 13.83sec
+Gemini Time: 0.00sec
+Output: Good morning, this is Kajal and recording and sample audio for audio transcription project....
+----------------------------------------
+
+
+Time: 2026-04-18 09:34:38.000227
+File: recorded.wav
+Task: Summary
+Tokens: 10
+Transcription Time: 14.07sec
+Gemini Time: 6.42sec
+Output: The speaker/subject was intended or scheduled to be the weather information display (or widget/secti...
+----------------------------------------
+
+
+Time: 2026-04-18 09:35:43.368130
+File: recorded.wav
+Task: Keywords
+Tokens: 10
+Transcription Time: 13.13sec
+Gemini Time: 10.25sec
+Output: Here are keywords broken down by category, based on "I was going to be the weather info lockup today...
+----------------------------------------
+
